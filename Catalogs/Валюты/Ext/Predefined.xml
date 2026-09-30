@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.15">
+	<Item id="ab178828-6ac6-4db9-91e7-f6099860444b">
+		<Name>Рубль</Name>
+		<Code>643</Code>
+		<Description>Рубль</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
