@@ -233,6 +233,7 @@
 			<CommonTemplate>КарточкаПредприятия</CommonTemplate>
 			<CommonModule>РаботаСДокументамиКлиент</CommonModule>
 			<CommonModule>РаботаСДокументамиСервер</CommonModule>
+			<HTTPService>ВалютыСервис</HTTPService>
 			<Constant>ОргОсновнаяВалюта</Constant>
 			<Constant>ОсновнаяОрганизация</Constant>
 			<CommonForm>НастройкаПараметров</CommonForm>
