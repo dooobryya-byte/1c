@@ -141,11 +141,11 @@
 		</Metadata>
 		<Metadata name="DocumentJournal.ОбщийЖурнал.Form.ФормаСписка" id="d3173658-3f33-49c9-be3a-84ef36fe82f1" configVersion="b2d3265c6098ee4aac5373f68f4b15cc00000000"/>
 		<Metadata name="DocumentJournal.ОбщийЖурнал.Form.ФормаСписка.Form" id="d3173658-3f33-49c9-be3a-84ef36fe82f1.0" configVersion="fd86201e71f24c4ba24ed0551ab59bfd00000000"/>
-		<Metadata name="HTTPService.ВалютыСервис" id="0ace7243-4c46-40b3-9d13-d0985e571ecf" configVersion="93712a3840574440b3ddcdf107eb59d300000000">
+		<Metadata name="HTTPService.ВалютыСервис" id="0ace7243-4c46-40b3-9d13-d0985e571ecf" configVersion="0baad9a882ef8a45829d8791f6de5a4200000000">
 			<Metadata name="HTTPService.ВалютыСервис.URLTemplate.Courses.Method.ПолучитьКурсы" id="6f1fc27d-029a-438d-a1fc-2bcdc1e279b2"/>
 			<Metadata name="HTTPService.ВалютыСервис.URLTemplate.Courses" id="8b5d0e78-c982-4ad8-8807-06f05a45439d"/>
 		</Metadata>
-		<Metadata name="HTTPService.ВалютыСервис.Module" id="0ace7243-4c46-40b3-9d13-d0985e571ecf.0" configVersion="9f2e0beba47bf549a0a9b7fb553ae0db00000000"/>
+		<Metadata name="HTTPService.ВалютыСервис.Module" id="0ace7243-4c46-40b3-9d13-d0985e571ecf.0" configVersion="21b5fef184a83740b561f34e2b08652c00000000"/>
 		<Metadata name="InformationRegister.КурсыВалют" id="65c72c11-4e56-4176-8cbb-3f7a5009d20e" configVersion="482c66f55c9dd34b886f235df27f292b00000000">
 			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="3862589c-b879-461c-a9ae-9d2b294ba523"/>
 			<Metadata name="InformationRegister.КурсыВалют.Dimension.Валюта" id="55d64812-c6b6-47db-9adc-5eb0a711d0b2"/>
