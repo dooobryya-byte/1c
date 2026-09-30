@@ -245,6 +245,7 @@
 			<DocumentJournal>ОбщийЖурнал</DocumentJournal>
 			<Report>КурсыВалют</Report>
 			<DataProcessor>ЗагрузкаКурсовВалют</DataProcessor>
+			<DataProcessor>КонсольЗапросов</DataProcessor>
 			<InformationRegister>КурсыВалют</InformationRegister>
 		</ChildObjects>
 	</Configuration>
