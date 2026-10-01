@@ -230,6 +230,8 @@
 			<CommonPicture>ОбщаяКартинка6</CommonPicture>
 			<CommonPicture>ОбщаяКартинка7</CommonPicture>
 			<CommonPicture>ОбщаяКартинка8</CommonPicture>
+			<Role>Администратор</Role>
+			<Role>Пользователь</Role>
 			<CommonTemplate>КарточкаПредприятия</CommonTemplate>
 			<CommonModule>РаботаСДокументамиКлиент</CommonModule>
 			<CommonModule>РаботаСДокументамиСервер</CommonModule>
